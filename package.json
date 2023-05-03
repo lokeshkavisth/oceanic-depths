@@ -1,0 +1,57 @@
+{
+  "name": "oceanic-depths",
+  "displayName": "oceanic-depths",
+  "author": {
+    "name": "Lokesh Kavisth"
+  },
+  "description": "oceanic-depths Theme: Based on Dark blue colors/shades.",
+  "version": "0.0.1",
+  "publisher": "LokeshKavisth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lokeshkavisth/oceanic-depths/issues"
+  },
+  "homepage": "https://github.com/lokeshkavisth/oceanic-depths",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lokeshkavisth/oceanic-depths"
+  },
+  "icon": "./icon.jpg",
+  "keywords": [
+    "oceanic-depths",
+    "oceanicdepths",
+    "vscode-oceanic-depths-theme",
+    "theme",
+    "dark theme",
+    "lokesh kavisth",
+    "oceanic-depths dark theme",
+    "low contrast dark theme"
+  ],
+  "galleryBanner": {
+    "color": "#001b29",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "extensionKind": [
+    "ui",
+    "workspace"
+  ],
+  "prettier": {
+    "singleQuote": true,
+    "semi": false
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Oceanic Depths",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Oceanic Depths-color-theme.json"
+      }
+    ]
+  }
+}
