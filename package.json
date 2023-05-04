@@ -1,10 +1,10 @@
 {
   "name": "oceanic-depths",
-  "displayName": "oceanic-depths",
+  "displayName": "Oceanic-Depths",
   "author": {
     "name": "Lokesh Kavisth"
   },
-  "description": "oceanic-depths Theme: Based on Dark blue colors/shades.",
+  "description": "Oceanic-Depths Theme: Inspired by the colors of the ocean.",
   "version": "0.0.1",
   "publisher": "LokeshKavisth",
   "license": "MIT",
@@ -16,7 +16,7 @@
     "type": "git",
     "url": "https://github.com/lokeshkavisth/oceanic-depths"
   },
-  "icon": "./icon.jpg",
+  "icon": "./icon.jpeg",
   "keywords": [
     "oceanic-depths",
     "oceanicdepths",
@@ -25,6 +25,7 @@
     "dark theme",
     "lokesh kavisth",
     "oceanic-depths dark theme",
+    "night theme",
     "low contrast dark theme"
   ],
   "galleryBanner": {
